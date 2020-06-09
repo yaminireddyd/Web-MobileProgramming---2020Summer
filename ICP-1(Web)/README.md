@@ -9,5 +9,6 @@ ICP - 1
          3.Cloned the Repositry
          4.Created the Source & Documentation folders in the local repositry and pushed it to the Web.
          5.update the Wiki & README pages
-         6.Forked the Reposirt from anugular site
+         6.Forked the Repository from anugular site
          7.Created an issue.
+         8.Synched both Remote & Local repositories
