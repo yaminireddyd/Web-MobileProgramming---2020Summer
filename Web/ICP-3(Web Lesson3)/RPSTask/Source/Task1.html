@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rock-Paper-Scissor Game</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="rps.js"></script>
+</head>
+<body class="bodybg">
+<div>
+    <div class="headercls text-center">
+        <h1><b>Rock Paper Scissors - Let's Play!</b></h1>
+        <h2> <b> Select your choice by clicking on the image </b></h2>
+    </div>
+    <div class="row text-center" style="margin-top: 10%;">
+        <div class="col-md-4">
+
+            <button style="background-color: transparent;border: none" onclick="userinput('r')">
+                <img style="width:240px" src="images/rock.jpg"></button>
+        </div>
+        <div class="col-md-4">
+
+            <button style="background-color: transparent;border: none" onclick="userinput('p')">
+                <img style="width:200px" src="images/paper.jpg"></button>
+        </div>
+        <div class="col-md-4">
+
+            <button style="background-color: transparent;border: none" onclick="userinput('s')">
+                <img style="width:200px" src="images/scissors.jpg"></button>
+        </div>
+    </div>
+    <div class="row">
+    </div>
+</div>
+<div class="row" style="text-align: center;">
+    <h2 style="color: white" id="result"></h2>
+</div>
+</body>
+</html>
