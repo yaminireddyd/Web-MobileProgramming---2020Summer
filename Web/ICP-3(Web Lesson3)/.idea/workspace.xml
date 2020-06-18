@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b96d8531-3869-4889-b8c5-cf99897eeab2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPSTask/Documentation/Task1_output.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPSTask/Documentation/Task1_output1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RWD Task/Source/SampleImages/yamini.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/RWD Task/Source/SampleImages/yamini.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RWD Task/Source/task2.html" beforeDir="false" afterPath="$PROJECT_DIR$/RWD Task/Source/task2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592195446124</updated>
       <workItem from="1592195447292" duration="5831000" />
-      <workItem from="1592350732149" duration="727000" />
+      <workItem from="1592350732149" duration="3960000" />
     </task>
     <servers />
   </component>
