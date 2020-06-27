@@ -1,0 +1,43 @@
+.parent-container {
+    position: relative;
+    height:100%;
+    width: 100%;
+
+}
+
+.child-container {
+    color: yellowgreen;
+    text-align: center;
+    position: center;
+    font-family: Geneva;
+
+}
+.desc {
+    font-family: Georgia;
+    font-size: 17px;
+}
+
+.gobtn{
+    background-color: whitesmoke;
+//font-palette: white ;
+}
+.container
+{
+    height: 600%;
+    min-height: 600%;
+}
+
+.first {
+    float: left;
+    width: 30%;
+    height: 6000%;
+    background-color: red;
+}
+.third {
+    float: right;
+    width: 30%;
+    height: 600%;
+    padding-left: 10px;
+    background-color: red;
+}
+

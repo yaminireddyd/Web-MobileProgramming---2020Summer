@@ -1,0 +1,6 @@
+.image{
+  height:90em; background-size:cover; width:100%;
+  background-image:url('9.jpg');
+  background-position:50% 40%;
+  //background-color: mediumorchid;
+}
