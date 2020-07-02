@@ -59,7 +59,7 @@ body .container .todo-list .todo-list__head .todo-list-head__text-input {
   padding: 0 14px;
   outline: 0;
   color: #000000;
-  background: #f1f1f1;
+  background: purple;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   border-radius: 2px;
@@ -68,19 +68,19 @@ body .container .todo-list .todo-list__head .todo-list-head__text-input {
   box-shadow: 0px 2px 2px 0px rgba(204, 204, 204, 0.5);
 }
 body .container .todo-list .todo-list__head ::-webkit-input-placeholder {
-  color: #000000;
+  color: purple;
   opacity: 1;
 }
 body .container .todo-list .todo-list__head :-moz-placeholder {
-  color: #000000;
+  color: purple;
   opacity: 1;
 }
 body .container .todo-list .todo-list__head ::-moz-placeholder {
-  color: #000000;
+  color: mediumpurple;
   opacity: 1;
 }
 body .container .todo-list .todo-list__head :-ms-input-placeholder {
-  color: #000000;
+  color: mediumpurple;
   opacity: 1;
 }
 body .container .todo-list .todo-list__head .toto-list-head__submit {
@@ -128,7 +128,7 @@ body .container .todo-list .todo-list__items li span {
   left: 8px;
   width: 24px;
   height: 24px;
-  color: #ffffff;
+  color: mediumpurple;
   font-size: 10px;
   font-weight: 400;
   font-style: italic;
@@ -182,7 +182,7 @@ body .container .todo-list .todo-list__items li:hover .todo-list-item__complete 
 }
 
 body {
-  background-color: #272030 !important;
+  background-color: mediumpurple !important;
   height: 865px !important;
 }
 
