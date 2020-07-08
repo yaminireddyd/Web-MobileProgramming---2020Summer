@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_green_light"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:background="@color/colorAccent"
+        android:text="  Welcome to Home Page"
+        android:textColor="@android:color/background_dark"
+        android:textSize="36sp"
+        tools:layout_editor_absoluteX="159dp"
+        tools:layout_editor_absoluteY="93dp" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName2"
+        android:layout_width="match_parent"
+        android:layout_height="89dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="This is Android In class Programming. I am Yamini."
+        android:textColor="@android:color/background_dark" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName3"
+        android:layout_width="match_parent"
+        android:layout_height="71dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="                I am UMKC Student. Hello!!" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName4"
+        android:layout_width="match_parent"
+        android:layout_height="61dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="                 Summer Semester - 2020" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="@android:dimen/app_icon_size"
+        android:layout_height="79dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="67dp"
+        android:background="@color/colorAccent"
+        android:baselineAligned="false"
+        android:onClick="logout"
+        android:text="LOGOUT"
+        android:textColor="@android:color/background_dark"
+        tools:layout_editor_absoluteX="150dp"
+        tools:layout_editor_absoluteY="220dp"
+        tools:textSize="30sp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="@android:dimen/app_icon_size"
+        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+</LinearLayout>
