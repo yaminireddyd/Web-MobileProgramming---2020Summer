@@ -62,10 +62,4 @@
         tools:layout_editor_absoluteY="220dp"
         tools:textSize="30sp" />
 
-    <ImageView
-        android:id="@+id/imageView4"
-        android:layout_width="match_parent"
-        android:layout_height="@android:dimen/app_icon_size"
-        tools:srcCompat="@tools:sample/backgrounds/scenic" />
-
 </LinearLayout>
