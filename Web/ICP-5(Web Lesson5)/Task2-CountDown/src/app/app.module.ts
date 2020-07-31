@@ -5,7 +5,7 @@ import { AppComponent } from './app.component';
 import { TimeInputComponent } from './components/time-input/time-input.component';
 import { CountdownComponent } from './components/countdown/countdown.component';
 import { InputToCountdownDirective } from './directives/input-to-countdown.directive';
-import { TimeFormatPipe } from './pipes/time-format.pipe';
+import { TimeFormatPipe } from './Fractions/time-format.pipe';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 @NgModule({
